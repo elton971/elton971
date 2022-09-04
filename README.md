@@ -20,7 +20,7 @@ Visit my simple blog https://console-log-two.vercel.app/
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 <a href="https://www.linkedin.com/in/elton-carlos-038711195/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jeffer Marcelino-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Elton Carlos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 <a href="mailto:eltoncavele8@gmail.com" target="_blank">
